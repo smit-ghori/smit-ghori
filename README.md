@@ -83,14 +83,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smit-ghori&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smit-ghori&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smit-ghori&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit-ghori&layout=compact&theme=default&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smit-ghori&theme=github-light"/>
 </p>
-
 ---
 
 ## 🏆 Achievements
