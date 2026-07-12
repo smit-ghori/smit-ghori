@@ -1,42 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=220&section=header&text=Smit%20Ghori&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=220&section=header&text=Smit%20Ghori&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20Developer&descAlignY=55&descSize=18"/>
 </p>
-<h3 align="center">Backend Engineer | Python Developer | Data Science Enthusiast</h3>
+<h3 align="center">Data Science Enthusiast | Python Developer | Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=1E1E1E&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Backend+Development+Focused;Learning+AI+%26+Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=1E1E1E&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;EDA+%2B+Statistics+%2B+ML;Building+End-to-End+Analytics+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 MCA Student at LJ University
-* 💻 Strong in **Python, Data Structures, DBMS, Backend Development**
-* 🤖 Interested in **AI & Data Science**
-* 🌱 Currently learning **Flask & Django**
-* 🎯 Goal: **Backend Engineer / Python Developer**
-* 📩 Open to **Internships & Job Opportunities**
+* 🎓 MCA Student at LJ University (Batch 2025)
+* 📊 Focused on **Data Analysis, EDA, Statistics & Machine Learning**
+* 🐍 Strong in **Python, Pandas, NumPy, SQL, DBMS**
+* 🧠 Comfortable across the full analytics pipeline: cleaning → EDA → stats → modeling → insights
+* 💻 Also build backend tools with **Flask & Django**
+* 📩 Open to **Data Analyst / Data Science Internships & Job Opportunities**
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Play with PDF**
-→ Built using Python & Flask for smart PDF operations
+🔹 **[1M E-Commerce Data Analysis](https://github.com/smit-ghori/1M-Ecommerce-Data-Analysis)**
+→ End-to-end EDA on ~1M order dataset — customer segmentation, revenue trends, hypothesis testing (t-test), KPI dashboard, and business recommendations. *(Pandas, NumPy, SciPy, Seaborn, Matplotlib)*
 
-🔹 **News API App**
-→ React-based real-time news application
+🔹 **[Sales Analytics Dashboard](https://github.com/smit-ghori/Sales-Analytics-Dashboard)**
+→ Interactive Power BI dashboard turning raw sales data into actionable business insights.
 
-🔹 **Supply Chain System**
-→ PHP-based management system
+🔹 **[Student Score Predictor](https://github.com/smit-ghori/Student_score_predictor)**
+→ Regression model predicting student performance from study habits and background data. *(Scikit-Learn)*
 
-🔹 **AI Mini Projects**
-→ Machine learning & problem-solving experiments
+🔹 **[PlayWithPDFs](https://github.com/smit-ghori/PlayWithPDFs)**
+→ Full-stack Flask web app for PDF operations — merge, split, organize, redact, sign, rotate, convert. [Live demo](https://playwithpdfs.onrender.com)
 
 ---
 
 ## ⚡ Tech Stack
+
+### 📊 Data Science & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ### 👨‍💻 Languages
 <p>
@@ -46,21 +57,6 @@
 ### ⚙️ Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=flask,react,git,github,vercel,render"/>
-</p>
-
-### 🧠 Data Science & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SciPy-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
@@ -90,6 +86,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smit-ghori&theme=github-light"/>
 </p>
+
 ---
 
 ## 🏆 Achievements
@@ -118,4 +115,4 @@
 
 ---
 
-<h3 align="center">⚡ "Build Projects → Gain Skills → Get Hired"</h3>
+<h3 align="center">⚡ "Data → Insights → Impact"</h3>
